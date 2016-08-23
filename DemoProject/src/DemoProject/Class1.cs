@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace DemoProject
 {
-    public class Class1
+    public class Class321
     {
-        public Class1()
+        public Class321()
         {
 
         }
